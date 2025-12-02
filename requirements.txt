@@ -1,0 +1,8 @@
+requests==2.31.0
+pycryptodome==3.19.0
+python-dotenv==1.0.0
+qrcode==7.4.2
+Pillow==10.1.0
+colorama==0.4.6
+brotli
+dotenv
